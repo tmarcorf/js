@@ -7,8 +7,7 @@ console.log(validarData.test("15/10/22"));
 console.log(validarData.test("15/10/2035"));
 console.log(validarData.test('15/10/2022'));
 
-
-console.log("Email")
+console.log("Email");
 
 const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
